@@ -1,5 +1,5 @@
-
-# Smart_Documents_Scanner{
+[Ai_Recipe_Generator.ipynb](https://github.com/user-attachments/files/32699989/Ai_Recipe_Generator.ipynb)
+{
   "cells": [
     {
       "cell_type": "code",
